@@ -30,6 +30,7 @@ An end-to-end **Movie Recommendation System** built with **FastAPI**, **Scikit-l
 ---
 
 ## 📂 Project Structure
+```
 
 End-to-End Movie Recommendation System/
 │
@@ -41,6 +42,7 @@ End-to-End Movie Recommendation System/
 ├── requirements.txt
 └── README.md
 
+```
 ---
 
 
