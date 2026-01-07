@@ -127,8 +127,8 @@ streamlit run app.py
 
 **Suyash Singh**
 
-*GitHub: https://github.com/suyXcode*
-*Portfolio: https://suyxcode.netlify.app*
+- *GitHub: https://github.com/suyXcode*
+- *Portfolio: https://suyxcode.netlify.app*
 
 
 
