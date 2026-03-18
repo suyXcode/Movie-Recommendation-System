@@ -374,4 +374,6 @@ elif st.session_state.view == "details":
         st.warning("No title available to compute recommendations.")
 
 
-    app.run(debug=True)
+    # app.run(debug=True)
+if __name__ == "__main__":
+    pass 
