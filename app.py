@@ -376,4 +376,5 @@ elif st.session_state.view == "details":
 
     # app.run(debug=True)
 if __name__ == "__main__":
+    
     pass 
